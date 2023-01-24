@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **MERN Travel Booking App**
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **TypeScript, TailwindCSS**
 
 - 📫 How to reach me **nicholaskhu17@gmail.com**
 
