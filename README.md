@@ -1,6 +1,6 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Nicholas Hu | Software Engineer</h1>
-<h3 align="center">I'm a motivated and adaptable fullstack developer with biotech and neurology background.</h3>
+<h3 align="center">Motivated and adaptable fullstack developer with biotech and neurology background.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nichkhu&label=Profile%20views&color=0e75b6&style=flat" alt="nichkhu" /> </p>
 
