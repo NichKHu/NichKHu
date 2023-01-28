@@ -1,4 +1,4 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+![MasterHead](file:///C:/Users/Biscuit/Pictures/main%20background.png)
 <h1 align="center">Nicholas Hu | Software Engineer</h1>
 <h3 align="center">Motivated and adaptable fullstack developer with biotech and neurology background.</h3>
 
