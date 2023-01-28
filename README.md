@@ -1,4 +1,4 @@
-![MasterHead]([file:///C:/Users/Biscuit/Pictures/main%20background.png](https://i.redd.it/gioh4ahnkno41.jpg))
+![MasterHead](https://i.redd.it/gioh4ahnkno41.jpg)
 <h1 align="center">Nicholas Hu | Software Engineer</h1>
 <h3 align="center">Motivated and adaptable fullstack developer with biotech and neurology background.</h3>
 
