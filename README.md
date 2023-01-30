@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **MERN Travel Booking Mobile App**
 
-- 🌱 I’m currently learning **TypeScript, TailwindCSS, Next.js, Redux**
+- 🌱 I’m currently utilizing **TypeScript, TailwindCSS, Next.js, Redux, Bootstrap**
 
 - 📫 How to reach me **nicholaskhu17@gmail.com**
 
