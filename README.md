@@ -1,4 +1,4 @@
-///![MasterHead](https://i.redd.it/gioh4ahnkno41.jpg)
+![MasterHead](https://i.redd.it/gioh4ahnkno41.jpg)
 <h1 align="center">Nicholas K. Hu | Software Developer</h1>
 <h3 align="center">Motivated and adaptable fullstack developer with neurology and gerontology background.</h3>
 
