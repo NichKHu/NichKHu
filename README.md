@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nichkhu&label=Profile%20views&color=0e75b6&style=flat" alt="nichkhu" /> </p>
 
-- 🔭 I’m currently working on **MERN Ai Image Generating App**
+- 🔭 I’m currently working on **MERN Ai Image Generating Appication**
 
 - 🌱 I’m currently familiarizing with **TypeScript, TailwindCSS**
 
