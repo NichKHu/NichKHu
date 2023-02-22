@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **MERN Ai Image Generating Appication**
 
-- 🌱 I’m currently familiarizing with **TypeScript, TailwindCSS**
+- 🌱 I’m currently familiarizing with **TypeScript**
 
 - 📫 How to reach me **nicholaskhu17@gmail.com**
 
