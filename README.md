@@ -1,3 +1,5 @@
+<img src='GitHub Banner.png' alt="banner"></img>
+
 <h1 align="center">Nicholas K. Hu | Fullstack Developer</h1>
 <h3 align="center">Motivated and adaptable programmer with a background in neurobiology and gerontology.</h3>
 
