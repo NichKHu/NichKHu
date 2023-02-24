@@ -1,4 +1,3 @@
-![MasterHead](https://i.redd.it/gioh4ahnkno41.jpg)
 <h1 align="center">Nicholas K. Hu | Fullstack Developer</h1>
 <h3 align="center">Motivated and adaptable programmer with neurology background.</h3>
 
