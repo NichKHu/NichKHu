@@ -1,5 +1,5 @@
 <h1 align="center">Nicholas K. Hu | Fullstack Developer</h1>
-<h3 align="center">Motivated and adaptable programmer with neurology background.</h3>
+<h3 align="center">Motivated and adaptable programmer with a neurology background.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nichkhu&label=Profile%20views&color=0e75b6&style=flat" alt="nichkhu" /> </p>
 <h3 align="left">Languages and Tools:</h3>
