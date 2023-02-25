@@ -1,5 +1,5 @@
 <img src='GitHub Banner.png' alt="banner"></img>
-<h3 align="center" width="400px">Adaptable programmer with a background in neuroscience who aims to use technology to augment our quality of life.</h3>
+<h3 align="center" width="300px">Adaptable programmer with a background in neuroscience who aims to use technology to augment our quality of life.</h3>
 
 <h3 align="center">Technologies:</h3>
 <p align="center">
