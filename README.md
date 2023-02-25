@@ -4,6 +4,6 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,html,css,react,vue,mongodb,express" />
+    <img src="https://skillicons.dev/icons?i=javascript,html,css,react,vue,typescript,tailwind,mongodb,express,nodejs" />
   </a>
 </p>
