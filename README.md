@@ -9,6 +9,29 @@
   </a>
 </p>
 
+<style>
+  .container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  .item {
+    width: 300px;
+    height: 300px;
+    margin: 10px;
+    overflow: hidden;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+  }
+
+  .item img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+</style>
+
  <div class="container">
     <div class="item">
       <img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/giphy.gif">
