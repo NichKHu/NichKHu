@@ -8,7 +8,9 @@
     <img src="https://skillicons.dev/icons?i=javascript,py,html,css,react,vue,typescript,tailwind,mongodb,express,nodejs,postgres,wordpress,linux,androidstudio&theme=light" />
   </a>
 </p>
-
+<!DOCTYPE html>
+<html>
+<head>
 <style>
   .container {
     display: flex;
@@ -31,8 +33,9 @@
     object-fit: cover;
   }
 </style>
-
- <div class="container">
+</head>
+<body>
+  <div class="container">
     <div class="item">
       <img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/giphy.gif">
     </div>
@@ -46,3 +49,6 @@
       <img src="https://media.giphy.com/media/YrJ9kfoC3sIt6/giphy.gif">
     </div>
   </div>
+</body>
+</html>
+
