@@ -2,6 +2,21 @@
 <img src='GitHub Banner.png' alt="banner"></img>
 <h3 align="center">Adaptable programmer with a background in neuroscience, aims to use technology for bettering our quality of life.</h3>
 
+<style>
+    table {
+        border-collapse: collapse;
+        width: 100%;
+    }
+
+    td {
+        text-align: center;
+        padding: 20px;
+        border: 1px solid #ddd;
+        width: 25%;
+        height: 50%;
+    }
+</style>
+
 <h3 align="center">Technologies:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
