@@ -19,7 +19,7 @@
         <h4 align="center">OrionImages.com, AI Image Generator Social Media App</h4>
         <img src="https://media.giphy.com/media/l0HlVsjikuZJAvyUE/giphy.gif">
         <h5 align="center">React, Node.js, MongoDB, Express.js, Vite, Tailwind, CRUD</h5>
-        <p>Utilizing OpenAi API, this application can create one-of-a-kind artifical intelligence images just by inputting your custom description.
+        <p>One can create one-of-a-kind artifical intelligence images just by inputting custom descriptions.
           The image then can be downloaded for personal use or shared with others in the community. </p>
       </div>
     </td>
