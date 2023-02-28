@@ -10,3 +10,13 @@
 </p>
 
 
+<table>
+  <tr>
+    <td>Top left quadrant</td>
+    <td>Top right quadrant</td>
+  </tr>
+  <tr>
+    <td>Bottom left quadrant</td>
+    <td>Bottom right quadrant</td>
+  </tr>
+</table>
