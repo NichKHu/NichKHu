@@ -9,6 +9,9 @@
   </a>
 </p>
 
+This text will be **bold**.
+
+
 <h3 align="center">Projects:</h3>
 
 <table>
