@@ -20,7 +20,7 @@
     <td width="50%" height="50%">
       <div class="item">
         <h3 align="center">Orion Ai Images </h3>
-        <h4 align="center">>Ai Image Generator Social Media App</h4>
+        <h5 align="center">Ai Image Generator Social Media App</h5>
         <img src="https://media.giphy.com/media/l0HlVsjikuZJAvyUE/giphy.gif">
         <h5 align="center">React, Node.js, MongoDB, Express.js, Vite, Tailwind, CRUD</h5>
         <p>Create one-of-a-kind artifical intelligence images by inputting your custom descriptions.
