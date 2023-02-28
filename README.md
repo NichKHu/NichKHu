@@ -15,7 +15,7 @@
   <tr>
     <td>
       <div class="item">
-        <h4 align="center">**OrionAiImage.com, AI Image Generator Social Media App**</h4>
+        <h4 align="center">OrionAiImage.com, AI Image Generator Social Media App</h4>
         <img src="https://media.giphy.com/media/l0HlVsjikuZJAvyUE/giphy.gif">
         <h5 align="center">React, Node.js, MongoDB, Express.js, Vite, Tailwind, CRUD</h5>
         <p>Utilizing OpenAi API, this application can create one-of-a-kind artifical intelligence images just by inputting your custom description.
@@ -24,7 +24,7 @@
     </td>
     <td>
       <div class="item">
-        <h4 align="center">**AstralSpeedType.com, Speed Typing Application**</h4>
+        <h4 align="center">AstralSpeedType.com, Speed Typing Application</h4>
         <img src="https://media.giphy.com/media/l0HlVsjikuZJAvyUE/giphy.gif">
         <h5 align="center">JavaScript, HTML5, CSS3, </h5>
         <p>Utilizing OpenAi API, this application can create one-of-a-kind ai images just by inputting your custom description.
