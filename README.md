@@ -19,7 +19,7 @@
         <h4 align="center">OrionImages.com, AI Image Generator Social Media App</h4>
         <img src="https://media.giphy.com/media/l0HlVsjikuZJAvyUE/giphy.gif">
         <h5 align="center">React, Node.js, MongoDB, Express.js, Vite, Tailwind, CRUD</h5>
-        <p>One can create one-of-a-kind artifical intelligence images just by inputting custom descriptions.
+        <p>Create one-of-a-kind artifical intelligence images by inputting your custom descriptions.
           The image then can be downloaded for personal use or shared with others in the community. </p>
       </div>
     </td>
@@ -28,8 +28,7 @@
         <h4 align="center">AstralSpeedType.com, Speed Typing Application</h4>
         <img src="https://media.giphy.com/media/l0HlVsjikuZJAvyUE/giphy.gif">
         <h5 align="center">JavaScript, HTML5, CSS3, </h5>
-        <p>Utilizing OpenAi API, this application can create one-of-a-kind ai images just by inputting your custom description.
-          The image then can be downloaded for personal use or shared with others in the community. </p>
+        <p>Find out your typing speed by filling out randmomized quotes. The program will highlight the correct letters/words (in green) and incorrect letters/words           (in red). Your words-per-minute (WPM) will be calculated at the end.</p>
       </div>
     </td>
   </tr>
@@ -38,9 +37,8 @@
       <div class="item">
         <h4 align="center">Janus.com, e-Commerce Watch Store</h4>
         <img src="https://media.giphy.com/media/l0HlVsjikuZJAvyUE/giphy.gif">
-        <h5 align="center">React, JSX, HTML5, CSS3</h5>
-        <p>Utilizing OpenAi API, this application can create one-of-a-kind ai images just by inputting your custom description.
-          The image then can be downloaded for personal use or shared with others in the community. </p>
+        <h5 align="center">React, JSX, HTML5, CSS3, CRUD</h5>
+        <p>Utilizing React.js, a shopping platform was created for watches made in London. The website is lightweight, responsive to mobile devices, and                       minimalistic while maintaining class that is fitting for luxury watches.  </p>
       </div>
     </td>
     <td>
@@ -48,8 +46,7 @@
         <h4 align="center">VancouverCabins.com, Cabin and Cottage Booking Application</h4>
         <img src="https://media.giphy.com/media/l0HlVsjikuZJAvyUE/giphy.gif">
         <h5 align="center">React, JSX, HTML5, CSS3</h5>
-        <p>Utilizing OpenAi API, this application can create one-of-a-kind ai images just by inputting your custom description.
-          The image then can be downloaded for personal use or shared with others in the community. </p>
+        <p>A booking application was created for a niche industry specializing in cabins and cottages. The website is SEO-optimized and focuses on quality of the               listing rather than the quantity. MERN authentication is added for user profiles and logins.</p>
       </div>
     </td>
   </tr>
