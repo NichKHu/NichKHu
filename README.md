@@ -9,8 +9,6 @@
   </a>
 </p>
 
-This text will be **bold**.
-
 
 <h3 align="center">Projects:</h3>
 
@@ -18,7 +16,7 @@ This text will be **bold**.
   <tr>
     <td>
       <div class="item">
-        <h4 align="center">OrionImages.com, AI Image Generator Social Media App</h4>
+        <h4 align="center"><b>OrionImages.com, AI Image Generator Social Media App</b></h4>
         <img src="https://media.giphy.com/media/l0HlVsjikuZJAvyUE/giphy.gif">
         <h5 align="center">React, Node.js, MongoDB, Express.js, Vite, Tailwind, CRUD</h5>
         <p>Utilizing OpenAi API, this application can create one-of-a-kind artifical intelligence images just by inputting your custom description.
