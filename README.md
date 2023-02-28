@@ -12,11 +12,27 @@
 
 <table>
   <tr>
-    <td>Top left quadrant</td>
-    <td>Top right quadrant</td>
+    <td>
+      <div class="item">
+        <img src="https://media.giphy.com/media/l0HlVsjikuZJAvyUE/giphy.gif">
+      </div>
+    </td>
+    <td>
+      <div class="item">
+        <img src="https://media.giphy.com/media/l0HlVsjikuZJAvyUE/giphy.gif">
+      </div>
+    </td>
   </tr>
   <tr>
-    <td>Bottom left quadrant</td>
-    <td>Bottom right quadrant</td>
+    <td>
+      <div class="item">
+        <img src="https://media.giphy.com/media/l0HlVsjikuZJAvyUE/giphy.gif">
+      </div>
+    </td>
+    <td>
+      <div class="item">
+        <img src="https://media.giphy.com/media/l0HlVsjikuZJAvyUE/giphy.gif">
+      </div>
+    </td>
   </tr>
 </table>
