@@ -19,7 +19,7 @@
   <tr>
     <td width="50%" height="50%">
       <div class="item">
-        <h3 align="center">Orion Ai Images </h3>
+        <h3 font="bold" align="center">Orion Ai Images </h3>
         <h4 align="center">Ai Image Generator Social Media App</h4>
         <img src="https://media.giphy.com/media/l0HlVsjikuZJAvyUE/giphy.gif">
         <h5 align="center">React, Node.js, MongoDB, Express.js, Vite, Tailwind, CRUD</h5>
