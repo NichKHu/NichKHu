@@ -2,29 +2,31 @@
 <html>
 <head>
 <style>
-  .container {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-  }
+    table {
+        border-collapse: collapse;
+        width: 100%;
+    }
 
-  .item {
-    width: 300px;
-    height: 300px;
-    margin: 10px;
-    overflow: hidden;
-    border: 1px solid #ddd;
-    border-radius: 10px;
-  }
-
-  .item img {
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-  }
+    td {
+        text-align: center;
+        padding: 20px;
+        border: 1px solid #ddd;
+    }
 </style>
 </head>
-<body>
+
+<table>
+    <tr>
+      <td>Top left quadrant</td>
+      <td>Top right quadrant</td>
+    </tr>
+    <tr>
+      <td>Bottom left quadrant</td>
+      <td>Bottom right quadrant</td>
+    </tr>
+  </table>
+
+<!-- <body>
   <div class="container">
     <div class="item">
       <img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/giphy.gif">
@@ -40,4 +42,4 @@
     </div>
   </div>
 </body>
-</html>
+</html> -->
