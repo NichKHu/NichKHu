@@ -20,7 +20,7 @@
     <td width="50%" height="50%">
       <div class="item">
         <h3 align="center">Orion Ai Images </h3>
-        <h5 align="center">Ai Image Generator Social Media App</h5>
+        <h4 align="center">Ai Image Generator Social Media App</h4>
         <img src="https://media.giphy.com/media/l0HlVsjikuZJAvyUE/giphy.gif">
         <h5 align="center">React, Node.js, MongoDB, Express.js, Vite, Tailwind, CRUD</h5>
         <p>Create one-of-a-kind artifical intelligence images by inputting your custom descriptions.
@@ -29,7 +29,8 @@
     </td>
     <td width="50%" height="50%">
       <div class="item">
-        <h4 align="center">AstralSpeedType.com, Speed Typing App</h4>
+        <h3 align="center">AstralTypes</h3>
+        <h4 align="center">Speed Typing App</h4>
         <img src="https://media.giphy.com/media/l0HlVsjikuZJAvyUE/giphy.gif">
         <h5 align="center">JavaScript, HTML5, CSS3, </h5>
         <p>Find out your typing speed by filling out randmomized quotes. The program will highlight the correct letters/words (in green) and incorrect letters/words           (in red). Your words-per-minute (WPM) will be calculated at the end.</p>
@@ -39,7 +40,8 @@
   <tr>
     <td width="50%" height="50%">
       <div class="item">
-        <h4 align="center">Janus.com, e-Commerce Watch Store</h4>
+        <h3 align="center">Janus, From London</h3>
+        <h4 align="center">e-Commerce Luxury Watch Website</h4>
         <img src="https://media.giphy.com/media/l0HlVsjikuZJAvyUE/giphy.gif">
         <h5 align="center">React, JSX, HTML5, CSS3, CRUD</h5>
         <p>Utilizing React.js, a shopping platform was created for watches made in London. The website is lightweight, responsive to mobile devices, and                       minimalistic while maintaining class that is fitting for luxury watches.  </p>
@@ -47,7 +49,8 @@
     </td>
     <td width="50%" height="50%">
       <div class="item">
-        <h4 align="center">VancouverCabins.com, Cabin Booking Website</h4>
+        <h3 align="center">VancouverCabins</h3>
+        <h4 align="center">Booking App for Cabins/Cottages</h4>
         <img src="https://media.giphy.com/media/l0HlVsjikuZJAvyUE/giphy.gif">
         <h5 align="center">React, JSX, HTML5, CSS3</h5>
         <p>A booking application was created for a niche industry specializing in cabins and cottages. The website is SEO-optimized and focuses on quality of the               listing rather than the quantity. MERN authentication is added for user profiles and logins.</p>
