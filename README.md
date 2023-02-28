@@ -14,7 +14,7 @@
     <td>
       <div class="item">
         <img src="https://media.giphy.com/media/l0HlVsjikuZJAvyUE/giphy.gif">
-        <h4>Ai Image Generator Social Media App</h4>
+        <h4>Orion, Ai Image Generator Social Media App</h4>
         <h5>React, Node.js, MongoDB, Express.js, Vite, Tailwind, CRUD</h5>
         <p>Utilizing OpenAi API, this application can create one-of-a-kind ai images just by inputting your custom description.
           The image then can be downloaded for personal use or shared with others in the community. </p>
@@ -23,6 +23,10 @@
     <td>
       <div class="item">
         <img src="https://media.giphy.com/media/l0HlVsjikuZJAvyUE/giphy.gif">
+        <h4>Astral, Speed Typing Application</h4>
+        <h5>React, Node.js, MongoDB, Express.js, Vite, Tailwind, CRUD</h5>
+        <p>Utilizing OpenAi API, this application can create one-of-a-kind ai images just by inputting your custom description.
+          The image then can be downloaded for personal use or shared with others in the community. </p>
       </div>
     </td>
   </tr>
@@ -30,11 +34,19 @@
     <td>
       <div class="item">
         <img src="https://media.giphy.com/media/l0HlVsjikuZJAvyUE/giphy.gif">
+        <h4>Janus, e-Commerce Watch Store</h4>
+        <h5>React, Node.js, MongoDB, Express.js, Vite, Tailwind, CRUD</h5>
+        <p>Utilizing OpenAi API, this application can create one-of-a-kind ai images just by inputting your custom description.
+          The image then can be downloaded for personal use or shared with others in the community. </p>
       </div>
     </td>
     <td>
       <div class="item">
         <img src="https://media.giphy.com/media/l0HlVsjikuZJAvyUE/giphy.gif">
+        <h4>VancouverCabins, Cabin and Cottage Booking Application</h4>
+        <h5>React, Node.js, MongoDB, Express.js, Vite, Tailwind, CRUD</h5>
+        <p>Utilizing OpenAi API, this application can create one-of-a-kind ai images just by inputting your custom description.
+          The image then can be downloaded for personal use or shared with others in the community. </p>
       </div>
     </td>
   </tr>
