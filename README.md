@@ -14,7 +14,7 @@
 
 <table>
   <tr>
-    <td>
+    <td width="50%">
       <div class="item">
         <h4 align="center">OrionImages.com, AI Image Generator Social Media App</h4>
         <img src="https://media.giphy.com/media/l0HlVsjikuZJAvyUE/giphy.gif">
@@ -23,7 +23,7 @@
           The image then can be downloaded for personal use or shared with others in the community. </p>
       </div>
     </td>
-    <td>
+    <td width="50%">
       <div class="item">
         <h4 align="center">AstralSpeedType.com, Speed Typing App</h4>
         <img src="https://media.giphy.com/media/l0HlVsjikuZJAvyUE/giphy.gif">
@@ -33,7 +33,7 @@
     </td>
   </tr>
   <tr>
-    <td>
+    <td width="50%">
       <div class="item">
         <h4 align="center">Janus.com, e-Commerce Watch Store</h4>
         <img src="https://media.giphy.com/media/l0HlVsjikuZJAvyUE/giphy.gif">
@@ -41,7 +41,7 @@
         <p>Utilizing React.js, a shopping platform was created for watches made in London. The website is lightweight, responsive to mobile devices, and                       minimalistic while maintaining class that is fitting for luxury watches.  </p>
       </div>
     </td>
-    <td>
+    <td width="50%">
       <div class="item">
         <h4 align="center">VancouverCabins.com, Cabin Booking Website</h4>
         <img src="https://media.giphy.com/media/l0HlVsjikuZJAvyUE/giphy.gif">
