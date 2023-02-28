@@ -58,5 +58,3 @@
     </td>
   </tr>
 </table>
-
-<span style="font-size:36px;font-weight:bold;">your text</span>
