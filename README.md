@@ -59,4 +59,4 @@
   </tr>
 </table>
 
-<strong size="36">Testing </strong>
+<span style="font-size:36px;font-weight:bold;">your text</span>
