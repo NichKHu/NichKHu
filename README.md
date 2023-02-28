@@ -43,7 +43,7 @@
     </td>
     <td>
       <div class="item">
-        <h4 align="center">VancouverCabins.com, Cabin and Cottage Booking Website</h4>
+        <h4 align="center">VancouverCabins.com, Cabin Booking Website</h4>
         <img src="https://media.giphy.com/media/l0HlVsjikuZJAvyUE/giphy.gif">
         <h5 align="center">React, JSX, HTML5, CSS3</h5>
         <p>A booking application was created for a niche industry specializing in cabins and cottages. The website is SEO-optimized and focuses on quality of the               listing rather than the quantity. MERN authentication is added for user profiles and logins.</p>
