@@ -2,15 +2,11 @@
 <img src='GitHub Banner.png' alt="banner"></img>
 <h3 align="center">Adaptable full-stack developer with a background in neuroscience. I am deeply motivated by the use of technology for bettering our quality of life.</h3>
 
-[<img align="left" alt="GitHub" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/25/25231.svg" />][github]
-[<img align="left" alt="LinkedIn" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/25/25232.svg" />][linkedin]
-[<img align="left" alt="Twitter" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/25/25236.svg" />][twitter]
+## Connect with me
 
-<br />
-
-[github]: https://github.com/your-username
-[linkedin]: https://linkedin.com/in/your-username
-[twitter]: https://twitter.com/your-username
+- [GitHub](https://github.com/your-username)
+- [LinkedIn](https://linkedin.com/in/your-username)
+- [Twitter](https://twitter.com/your-username)
 
 ---
 
