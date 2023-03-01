@@ -42,7 +42,7 @@
       <div class="item">
         <h3 align="center">Janus, From London</h3>
         <h4 align="center">e-Commerce Luxury Watch Website</h4>
-        <img src="https://media.giphy.com/media/l0HlVsjikuZJAvyUE/giphy.gif">
+        <img src="janus-watch-gh.gif">
         <h5 align="center">React, JSX, HTML5, CSS3, CRUD</h5>
         <p>Utilizing React.js, a shopping platform was created for watches made in London. The website is lightweight, responsive to mobile devices, and                       minimalistic while maintaining class that is fitting for luxury watches.  </p>
       </div>
