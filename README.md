@@ -51,7 +51,7 @@
       <div class="item">
         <h3 align="center">VancouverCabins</h3>
         <h4 align="center">Booking App for Cabins/Cottages</h4>
-        <img src="https://media.giphy.com/media/l0HlVsjikuZJAvyUE/giphy.gif">
+        <img src="vancouver-cabins-gh.gif">
         <h5 align="center">React, JSX, HTML5, CSS3</h5>
         <p>A booking application was created for a niche industry specializing in cabins and cottages. The website is SEO-optimized and focuses on quality of the               listing rather than the quantity. MERN authentication is added for user profiles and logins.</p>
       </div>
