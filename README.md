@@ -36,7 +36,7 @@
     </td>
   </tr>
   <tr>
-    <td width="50%">
+    <td width="50%" height="50%">
       <div class="item">
         <h3 align="center">Janus, From London</h3>
         <h4 align="center">e-Commerce Luxury Watch Website</h4>
@@ -45,7 +45,7 @@
         <p>Utilizing React.js, a shopping platform was created for watches made in London. The website is lightweight, responsive to mobile devices, and                       minimalistic while maintaining class that is fitting for luxury watches.  </p>
       </div>
     </td>
-    <td width="50%">
+    <td width="50%" height="50%">
       <div class="item">
         <h3 align="center">VancouverCabins</h3>
         <h4 align="center">Booking App for Cabins/Cottages</h4>
