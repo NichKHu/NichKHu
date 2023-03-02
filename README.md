@@ -15,7 +15,7 @@
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="50%" height="300">
       <div class="item">
         <h3 align="center">Orion Ai Image Creator </h3>
         <h4 align="center">Ai Image Generator Social Media App</h4>
