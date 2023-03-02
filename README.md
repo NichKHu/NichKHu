@@ -2,6 +2,8 @@
 <img src='GitHub Banner.png' alt="banner"></img>
 <h3 align="center">Adaptable full-stack developer with a background in neuroscience. I am deeply motivated by the use of technology for bettering our quality of life.</h3>
 
+https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=website&logoColor=white
+
 <h2 align="center">Technologies:</h2>
 <p align="center">
   <a href="https://skillicons.dev">
