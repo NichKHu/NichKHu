@@ -42,7 +42,7 @@
         <h4 align="center">Speed Typing App</h4>
         <img src="astral-types-gh-v2.gif">
         <h5 align="center">JavaScript, HTML5, CSS3, </h5>
-        <p>Find out your typing speed by filling out randmomized quotes. The program will highlight the correct letters/words (in green) and incorrect letters/words           (in red). Your words-per-minute (WPM) will be calculated at the end.</p>
+        <p>Find out your typing speed by filling out randomized quotes. The program will highlight the correct letters/words (in green) and incorrect letters/words           (in red). Your words-per-minute (WPM) will be calculated at the end.</p>
       </div>
     </td>
     <td width="50%">
@@ -51,7 +51,7 @@
         <h4 align="center">Booking App for Cabins/Cottages</h4>
         <img src="vancouver-cabins-gh.gif">
         <h5 align="center">React, JSX, HTML5, CSS3</h5>
-        <p>A booking application was created for a niche industry specializing in cabins and cottages. The website is SEO-optimized and focuses on quality of the               listing rather than the quantity. MERN authentication is added for user profiles and logins.</p>
+        <p>A booking application created for a niche industry specializing in cabins and cottages. The website is SEO-optimized and focuses on quality of the               listing rather than the quantity. MERN authentication is added for user profiles and logins.</p>
       </div>
     </td>
   </tr>
