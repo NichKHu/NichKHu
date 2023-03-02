@@ -15,7 +15,7 @@
 
 <table>
   <tr>
-    <td>
+    <td width="50%">
       <div class="item">
         <h3 align="center">Orion Ai Image Creator </h3>
         <h4 align="center">Ai Image Generator Social Media App</h4>
@@ -25,7 +25,7 @@
           The image then can be downloaded for personal use or shared with others in the community.</p>
       </div>
     </td>
-    <td>
+    <td width="50%">
       <div class="item">
         <h3 align="center">Janus, From London</h3>
         <h4 align="center">e-Commerce Luxury Watch Website</h4>
@@ -36,7 +36,7 @@
     </td>
   </tr>
   <tr>
-    <td>
+    <td width="50%">
       <div class="item">
         <h3 align="center">AstralTypes</h3>
         <h4 align="center">Speed Typing App</h4>
@@ -45,7 +45,7 @@
         <p>Find out your typing speed by filling out randmomized quotes. The program will highlight the correct letters/words (in green) and incorrect letters/words           (in red). Your words-per-minute (WPM) will be calculated at the end.</p>
       </div>
     </td>
-    <td>
+    <td width="50%">
       <div class="item">
         <h3 align="center">VancouverCabins</h3>
         <h4 align="center">Booking App for Cabins/Cottages</h4>
