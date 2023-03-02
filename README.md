@@ -19,7 +19,7 @@
       <div class="item">
         <h3 align="center">Orion Ai Image Creator </h3>
         <h4 align="center">Ai Image Generator Social Media App</h4>
-        <img height="500" src="orion-ai-v3.gif">
+        <img height="300" src="orion-ai-v3.gif">
         <h5 align="center">React, Node.js, MongoDB, Express.js, Vite, Tailwind, CRUD</h5>
         <p>Create one-of-a-kind artifical intelligence images by inputting your custom descriptions.
           The image then can be downloaded for personal use or shared with others in the community.</p>
