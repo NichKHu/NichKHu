@@ -19,7 +19,7 @@
       <div class="item">
         <h3 align="center">Orion Ai Image Creator </h3>
         <h4 align="center">Ai Image Generator Social Media App</h4>
-        <img height="400" src="orion-ai-gh-v2.gif">
+        <img src="orion-ai-gh-v2.gif">
         <h5 align="center">React, Node.js, MongoDB, Express.js, Vite, Tailwind, CRUD</h5>
         <p>Create one-of-a-kind artifical intelligence images by inputting your custom descriptions.
           The image then can be downloaded for personal use or shared with others in the community.</p>
@@ -29,7 +29,7 @@
       <div class="item">
         <h3 align="center">Janus, From London</h3>
         <h4 align="center">e-Commerce Luxury Watch Website</h4>
-        <img width= "700" height="400" src="janus-react-gh.gif">
+        <img src="janus-react-gh.gif">
         <h5 align="center">React, JSX, HTML5, CSS3, CRUD</h5>
         <p>Utilizing React.js, a shopping platform was created for watches made in London. The website is lightweight, responsive to mobile devices, and                       minimalistic while maintaining class that is fitting for luxury watches.  </p>
       </div>
