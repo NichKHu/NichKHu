@@ -1,6 +1,6 @@
 <link rel="stylesheet" type="text/css" href="style.html">
 <img src='GitHub Banner.png' alt="banner"></img>
-<p align="center">Versed in fullstack software development, digital image automation, SEO, UI/UX Design and neuroscience. I am deeply motivated by the use of technology for bettering even the slightest things of our eldeies' day-to-day lives.</p>
+<p align="center">Versed in fullstack software development, digital image automation, SEO, UI/UX Design and neuroscience. I am deeply motivated by the use of technology for bettering even the slightest things of our elderlies' day-to-day lives.</p>
 
 <h2 align="center">Technologies:</h2>
 <p align="center">
