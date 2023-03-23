@@ -17,7 +17,7 @@
   <tr>
     <td width="50%">
       <div class="item">
-        <h3 align="center">Orion Ai Image Creator </h3>
+        <h3 align="center">Orion | Ai Image Creator</h3>
         <h4 align="center">Ai Image Generator Social Media App</h4>
         <img src="orion-ai-v3.gif">
         <h5 align="center">React, Node.js, MongoDB, Express.js, Vite, Tailwind, CRUD</h5>
@@ -27,7 +27,7 @@
     </td>
     <td width="50%">
       <div class="item">
-        <h3 align="center">Janus, From London</h3>
+        <h3 align="center">Janus | From London</h3>
         <h4 align="center">e-Commerce Luxury Watch Showcase</h4>
         <img src="janus-react-gh.gif">
         <h5 align="center">React, JSX, HTML5, CSS3, CRUD</h5>
