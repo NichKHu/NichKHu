@@ -50,7 +50,7 @@
         <h3 align="center">VancouverCabins</h3>
         <h4 align="center">Booking App for Cabins and Cottages</h4>
         <img src="vancouver-cabins-gh.gif">
-        <h5 align="center">React, MERN User Authentication</h5>
+        <h5 align="center">React, MERN User Authentication, CRUD</h5>
         <p>A booking application created for a niche industry specializing in cabins and cottages. The website is SEO-optimized and focuses on quality of the               listing rather than the quantity. MERN authentication is added for user profiles and logins.</p>
       </div>
     </td>
