@@ -16,6 +16,29 @@
 <table>
   <tr>
     <td width="50%">
+     <div class="item">
+       <h3 align="center">ProteusWorks | 3D Shirt Pattern Custimization</h3>
+        <p align="center">
+          <a href="https://www.proteusworks.com/">Create your own shirt now!</a>
+        </p>
+        <img src="proteus-master-gif.gif">
+        <h5 align="center">React.js, Three.js, Node Framer Motion, Tailwind CSS, REST API</h5>
+        <p>Utilizing ThreeJS' 3D graphics library, a shirt customization platform was launched for creative purposes. It allows users to AI generate           their own descriptive pattern or upload their own logo onto the shirt.</p>
+      </div>
+    </td>
+    <td width="50%">
+      <div class="item">
+        <h3 align="center">Orion | Ai Image Creator</h3>
+        <h4 align="center">Ai Image Generator Social Media App</h4>
+        <img src="orion-ai-v3.gif">
+        <h5 align="center">React, Node.js, MongoDB, Express.js, Vite, Tailwind, CRUD</h5>
+        <p>Create one-of-a-kind artifical intelligence images by inputting your custom descriptions.
+          The image then can be downloaded for personal use or shared with others in the community.</p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
       <div class="item">
         <h3 align="center">Orion | Ai Image Creator</h3>
         <h4 align="center">Ai Image Generator Social Media App</h4>
