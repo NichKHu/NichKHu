@@ -17,7 +17,8 @@
   <tr>
     <td width="50%">
      <div class="item">
-       <h3 align="center">ProteusWorks | 3D Shirt Pattern Custimization</h3>
+       <h3 align="center">ProteusWorks | Your Shirt Visualized</h3>
+        <h4 align="center">React & ThreeJS 3D Customization App</h4>
         <p align="center">
           <a href="https://www.proteusworks.com/">Create your own shirt now!</a>
         </p>
