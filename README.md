@@ -5,7 +5,7 @@
 <h2 align="center">Technologies:</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,py,java,react,vue,angular,tailwind,mongodb,express,nodejs,nextjs,postgresql,threejs&theme=light" />
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,py,java,react,vue,angular,tailwind,mongodb,express,nodejs,postgresql,nextjs,threejs&theme=light" />
   </a>
 </p>
 
