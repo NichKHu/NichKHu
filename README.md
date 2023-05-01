@@ -30,7 +30,7 @@
     <td width="50%">
       <div class="item" align="center">
         <h3 align="center">Caerus | Search your ideal job</h3>
-        <h4 align="center">React Native Job Postings App</h4>
+        <h4 align="center">React Native Job Boards App</h4>
         <img src="caerus.gif" height="475">
         <h5 align="center">React Native, Node.js, Search Functionality, Pagination, REST API</h5>
         <p>Caerus is a mobile application that can search, filter, and geographically recommend jobs to the users. It has aesthically pleasing UI/UX design along with          best practices for React Native development.</p>
